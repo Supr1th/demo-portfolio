@@ -9,4 +9,5 @@ document.getElementById("contactForm").addEventListener("submit", function (e) {
 
   // Clear form
   this.reset();
+  //checcking stash
 });
